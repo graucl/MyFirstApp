@@ -1,5 +1,6 @@
 ﻿using MyFirstApp.ForeachLoop;
 using MyFirstApp.ForLoop;
+using MyFirstApp.Inheritance;
 using MyFirstApp.WhileLoop;
 using System;
 using System.Windows.Forms;
@@ -16,7 +17,7 @@ namespace MyFirstApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmWhile());
+            Application.Run(new frmTeacher());
         }
     }
 }
