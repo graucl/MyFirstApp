@@ -1,7 +1,4 @@
-﻿using MyFirstApp.ForeachLoop;
-using MyFirstApp.ForLoop;
-using MyFirstApp.Inheritance;
-using MyFirstApp.WhileLoop;
+﻿using MyFirstApp.Inheritance;
 using System;
 using System.Windows.Forms;
 
